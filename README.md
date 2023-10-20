@@ -7,7 +7,7 @@ Bem-vindo ao meu repositório de projetos de desenvolvimento web, onde compartil
 ### Projeto 1: Loja de Açai
 
 - Descrição: O Website do "Pura Energia" é um projeto de site desenvolvido para promover uma sorveteria ou loja especializada em açaí. O site oferece uma experiência envolvente e informativa para os visitantes. 
-- Código-fonte: [Link para o repositório](https://github.com/Barreto0620/Senac/commit/6c650ee498386da55005cd57f3a8f711bb828f24)
+- Código-fonte: [Link para o repositório]([https://github.com/Barreto0620/Senac/commit/6c650ee498386da55005cd57f3a8f711bb828f24](https://github.com/Barreto0620/Senac/blob/49efc31c5aff016897e97fd206bf658f1e4c31ef/Projeto%20P.I/index.html))
 
 ## Tecnologias Utilizadas
 
