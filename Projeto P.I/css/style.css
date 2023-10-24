@@ -88,15 +88,12 @@ body {
 /* Fim do Cabeçalho */
 
 h1 {
-    text-align: center;
     padding: 90px;
     font-size: 60px;
     color: #fff;
 }
 
 h2 {
-
-    text-align: center;
     padding-top: 120px;
     padding-bottom: 90px;
     font-size: 60px;
@@ -104,10 +101,6 @@ h2 {
 }
 
 /* Imagem do Banner Principal */
-
-.img-banner {
-    text-align: center;
-}
 
 .img {
     height: 770px;
@@ -153,7 +146,6 @@ button {
 /* Inicio Rodape */
 
 footer {
-    text-align: center;
     padding-top: 150px;
     padding-bottom: 80px;
     color: #fff;
@@ -173,6 +165,11 @@ footer {
 }
 
 .facebook {
+    text-decoration: none;
+    color: #fff;
+}
+
+.endereco{
     text-decoration: none;
     color: #fff;
 }
