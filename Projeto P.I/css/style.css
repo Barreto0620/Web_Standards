@@ -36,9 +36,14 @@ body {
 .logo {
     width: 100px;
     display: inline-block;
-    margin-left: 980px;
+    margin-left: 800px;
     margin-right: 250px;
 }
+
+nav a:hover {
+    color: #ff01dd;
+}
+
 
 .links {
     background-color: black;
@@ -56,34 +61,31 @@ body {
     color: rgb(255, 255, 255);
     margin: 40px;
 }
-
 .cardapio {
     text-decoration: none;
     font-size: 25px;
     color: rgb(255, 255, 255);
     margin: 40px;
 }
-
 .novidades {
     text-decoration: none;
     font-size: 25px;
     color: rgb(255, 255, 255);
     margin: 40px;
 }
-
 .contatos {
     text-decoration: none;
     font-size: 25px;
     color: rgb(255, 255, 255);
     margin: 40px;
 }
-
 .sobre {
     text-decoration: none;
     font-size: 25px;
     color: rgb(255, 255, 255);
     margin: 40px;
 }
+
 
 /* Fim do Cabeçalho */
 
@@ -119,6 +121,7 @@ h2 {
     width: 900px;
     height: 600px;
     padding: 10px;
+    text-align: center;
 }
 
 .galeria-items img {
@@ -139,6 +142,12 @@ button {
     color: #fff;
     font-size: 16px;
 }
+
+button:hover {
+    background-color: #ff01dd;
+
+}
+
 
 /* Fim do Botão */
 
@@ -169,10 +178,11 @@ footer {
     color: #fff;
 }
 
-.endereco{
+.endereco {
     text-decoration: none;
     color: #fff;
 }
+
 
 /* Fim das Redes Sociais */
 
