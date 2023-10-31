@@ -32,7 +32,7 @@ Apresentar um layout responsivo e atraente para uma página web de barbearia.
 Explorar o potencial criativo do uso combinado de HTML e CSS, evidenciando a importância do design na experiência do usuário.
 Demonstrar técnicas inovadoras de codificação para criar uma interface visualmente agradável e funcional. 
 
-- Código-fonte: [Link para o repositório]([https://github.com/Barreto0620/Senac/tree/1d5722ca7ecf265687e81f1d51bf2bcdd9bf895a/Projeto_Web])
+- Código-fonte: [Link para o repositório](https://github.com/Barreto0620/Senac/tree/1d5722ca7ecf265687e81f1d51bf2bcdd9bf895a/Projeto_Web)
 
 ## Tecnologias Utilizadas
 
