@@ -12,7 +12,7 @@ Desenvolver uma interface suave e intuitiva, onde cada elemento visual é um con
 Criar uma jornada visualmente encantadora e responsiva, capturando a essência roxa da marca.
 Demonstrar a mágica criativa do HTML e CSS na construção de uma loja.
   
-- Código-fonte: [Link para o repositório]([https://github.com/Barreto0620/Senac/commit/6c650ee498386da55005cd57f3a8f711bb828f24](https://github.com/Barreto0620/Senac/blob/49efc31c5aff016897e97fd206bf658f1e4c31ef/Projeto%20P.I/index.html))
+- Código-fonte: [Link para o repositório]([https://github.com/Barreto0620/Senac/commit/6c650ee498386da55005cd57f3a8f711bb828f24](https://github.com/Barreto0620/Senac/blob/49efc31c5aff016897e97fd206bf658f1e4c31ef/Projeto%20P.I/index.html])
 
 ## Tecnologias Utilizadas
 
