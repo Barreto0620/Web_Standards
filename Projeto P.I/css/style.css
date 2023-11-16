@@ -105,9 +105,9 @@ h2 {
 /* Imagem do Banner Principal */
 
 .img {
-    height: 770px;
-    width: 1400px;
-    border-radius: 35px;
+    height: 780px;
+    width: 100%;
+    border-radius: 10px;
 }
 
 /* Fim do Banner Principal */
