@@ -3,6 +3,7 @@
 * {
     margin: 5px;
     text-align: center;
+    box-sizing: border-box;
 }
 
 .underline::before {
@@ -61,31 +62,42 @@ nav a:hover {
     color: rgb(255, 255, 255);
     margin: 40px;
 }
-.cardapio {
-    text-decoration: none;
-    font-size: 25px;
-    color: rgb(255, 255, 255);
-    margin: 40px;
-}
+
 .novidades {
     text-decoration: none;
     font-size: 25px;
     color: rgb(255, 255, 255);
     margin: 40px;
 }
-.contatos {
-    text-decoration: none;
-    font-size: 25px;
-    color: rgb(255, 255, 255);
-    margin: 40px;
-}
-.sobre {
+
+.cardapio {
     text-decoration: none;
     font-size: 25px;
     color: rgb(255, 255, 255);
     margin: 40px;
 }
 
+.doces {
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    margin: 40px;
+}
+
+nav .doces:hover {
+    color: #FFC7C2;
+}
+
+.salgados {
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    margin: 40px;
+}
+
+nav .salgados:hover {
+    color: #FFCD29;
+}
 
 /* Fim do Cabeçalho */
 
@@ -145,18 +157,22 @@ button {
 
 button:hover {
     background-color: #ff01dd;
+    color: #ffffff;
 
 }
 
 
 /* Fim do Botão */
 
+hr{
+  margin-bottom: 50px;  
+}
 
 /* Inicio Rodape */
 
 footer {
     padding-top: 150px;
-    padding-bottom: 80px;
+    padding-bottom: 50px;
     color: #fff;
 }
 
@@ -166,16 +182,19 @@ footer {
     text-decoration: none;
     color: #fff;
     margin-left: 750px;
+    margin-right: 40px;
 }
 
 .instagram {
     text-decoration: none;
     color: #fff;
+    margin-right: 40px;
 }
 
 .facebook {
     text-decoration: none;
     color: #fff;
+    margin-right: 40px;
 }
 
 .endereco {
