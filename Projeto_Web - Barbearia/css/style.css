@@ -61,7 +61,7 @@ header a {
 
 main {
     margin-top: -150px;
-    background-image: url(/img/fundo.jpg);
+    background-image: url(../img/fundo.jpg);
     background-size: cover;
     width: auto;
     height: 780px;
