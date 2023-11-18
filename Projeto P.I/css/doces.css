@@ -13,14 +13,14 @@
     /* Largura do "risco" */
     height: 50px;
     /* Altura do "risco" */
-    background-color: #FFA629;
+    background-color: #A40F1A;
     /* Cor do "risco" */
     margin-right: 10px;
     /* Espaço entre a palavra e o "risco" */
 }
 
 body {
-    background-image: radial-gradient(at center center, #e6cd7e, #FFCD29 100%);
+    background-image: radial-gradient(at center center, #ee7d73, #d68193 100%);
     font-family: 'Roboto', sans-serif;
 
 }
@@ -34,7 +34,7 @@ body {
     align-items: center;
 }
 
-.logo_salgado {
+.logo_doces {
     width: 100px;
     display: inline-block;
     margin-left: 750px;
@@ -42,11 +42,11 @@ body {
 }
 
 nav a:hover {
-    color: #FFCD29;
+    color: #FFC7C2;
 }
 
 
-.links_salgados {
+.links_doces {
     background-color: black;
     list-style: none;
     display: flex;
@@ -77,15 +77,15 @@ nav a:hover {
     margin: 40px;
 }
 
-.doces {
+.salgados {
     text-decoration: none;
     font-size: 25px;
     color: rgb(255, 255, 255);
     margin: 40px;
 }
 
-nav .doces:hover {
-    color: #FFC7C2;
+nav .salgados:hover {
+    color: #FFCD29;
 }
 
 .acai {
@@ -157,7 +157,7 @@ button {
 }
 
 button:hover {
-    background-color: #FFA629;
+    background-color: #FFC7C2;
     color: #000000;
 
 }
