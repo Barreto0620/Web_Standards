@@ -115,7 +115,7 @@ Receba recomendações personalizadas com base em seus gostos e interesses.
 Uma interface intuitiva que torna a navegação simples e agradável.
 Compatibilidade total com dispositivos móveis para que você possa aproveitar o streaming em qualquer lugar.
 
-- Código-fonte: [Link para o repositório](https://github.com/Barreto0620/Senac/tree/1d5722ca7ecf265687e81f1d51bf2bcdd9bf895a/Projeto_Web)
+- Código-fonte: [Link para o repositório](https://github.com/Barreto0620/Senac/tree/9f527a885a75fd34f6c1b7729fb0f2aad0c78b21/NetFree)
 
 ## Tecnologias Utilizadas
 
