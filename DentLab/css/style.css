@@ -1,0 +1,389 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    background-color: #e4edee;
+    justify-content: space-around;
+    gap: 300px;
+}
+
+header li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+    
+}
+
+header a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.logo{
+    width: 80px;
+}
+
+.botao_login {
+    padding: 10px 20px; 
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    border: none; 
+    color: #ffffff; 
+    background-color: #3498db;
+    border-radius: 5px; 
+    margin-top: -10px;
+    transition: background-color 0.3s ease;
+}
+
+.botao_login:hover {
+    background-color: rgb(53, 7, 95);
+    color: #fff; 
+}
+
+
+.banner{
+    background-color: #e4edee;
+    padding-top: 350px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.banner h1{
+    font-size: 35px;
+    font-weight: bold;
+    font-family:cursive;
+    margin-bottom: 20px;
+    
+}
+
+.banner p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+}
+
+.banner .texto_header{
+    margin-top: -300px;
+}
+
+.banner .div_img_header{
+    margin-top: -350px;
+}
+
+.banner .img_header{
+    width: 400px;
+}
+
+.botao_interesse{
+    padding: 10px 20px; 
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    border: none; 
+    color: #ffffff; 
+    background-color: #3498db;
+    border-radius: 5px; 
+    margin-top: -10px;
+    transition: background-color 0.3s ease;
+
+}
+
+.botao_interesse:hover{
+    background-color: rgb(53, 7, 95);
+    color: #fff; 
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.div_card{
+    background-color:aliceblue;
+    width: 20%;
+    border-radius: 10px;
+    margin-top: -4%;
+    text-align: center;   
+    border-top: 8px solid rgb(255, 174, 0);
+    box-shadow:0 0 10px 10px #666;
+ }
+.div_card2{
+    background-color:aliceblue;
+    width: 20%;
+    height: 170px;
+    border-radius: 10px;
+    margin-top: -4%;
+    text-align: center;   
+    border-top: 8px solid rgb(204, 0, 255);
+    box-shadow:0 0 10px 10px #666;
+ }
+.div_card3{
+    background-color:aliceblue;
+    width: 20%;
+    height: 170px;
+    border-radius: 10px;
+    margin-top: -4%;
+    text-align: center;   
+    border-top: 8px solid rgb(219, 161, 52);
+    box-shadow:0 0 10px 10px #666;
+    
+ }
+
+ .div_card img{
+    width: 25%;
+    margin: 3%;
+ }
+ .div_card2 img{
+    width: 25%;
+    margin: 3%;
+ }
+ .div_card3 img{
+    width: 25%;
+    margin: 3%;
+ }
+
+.section_descricao{
+    display: flex;
+    gap: 15%;
+    margin: 5% 10%;
+}
+
+.img_descricao{
+    width: 450px;
+}
+
+.div_descricao{
+    margin-top: 13%;
+}
+.div_descricao p{
+    margin-top: 3%;
+    font-size: 17px;
+}
+.div_descricao h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+ .velocidade{
+    font-size: 18px;
+    color: #34d5db;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+ }
+ .simplicidade{
+    font-size: 18px;
+    color:#0004ff;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .qualidade{
+    font-size: 18px;
+    color:#1392e7;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+.section_servicos{
+    margin: 80px 80px;
+}
+
+.texto_servicos{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.texto_servicos h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    
+}
+.texto_servicos p{
+    text-align: center;
+    margin: 1%;
+    font-size: 18px;
+    margin-bottom: 3%;
+}
+.div_card_servicos{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div_card_servicos img{
+    width: 25%;
+}
+.div_card_servicos h3{
+    font-weight: bold;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card_clareamento{
+    background-color:aliceblue;
+    width: 20%;
+    height: 170px;
+    border-radius: 10px;
+    box-shadow:0 0 10px 10px #666;
+}
+
+.card_consulta{
+    background-color:aliceblue;
+    width: 20%;
+    height: 170px;
+    border-radius: 10px;
+    box-shadow:0 0 10px 10px #666;
+}
+
+.card_extracao{
+    background-color:aliceblue;
+    width: 20%;
+    height: 170px;
+    border-radius: 10px;
+    box-shadow:0 0 10px 10px #666;
+}
+
+.card_aparelho{
+    background-color:aliceblue;
+    width: 20%;
+    height: 170px;
+    border-radius: 10px;
+    box-shadow:0 0 10px 10px #666;
+}
+
+.section_profissionais{
+    margin-left: 5%;
+    background-color: #e4edee;
+    width: 90%;
+    
+}
+.container_profissionais{
+    display: flex;
+    justify-content: space-around;
+}
+.texto_profissionais{
+    margin-top: 10%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.texto_profissionais h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.texto_profissionais p{
+    text-align: justify;
+    margin: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 18px;
+}
+.img_profissionais{
+    width: 400px;
+}
+footer {
+    width: 100%;
+    color: white;
+    margin-top: 10%;
+  }
+  .conteudo_footer {
+    background-color: #dfdede;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 3rem 3.5rem;
+  }
+  
+  .conteudo_footer img {
+    height: 120px;
+    margin-left: 10%;
+  }
+  
+  .contatos_footer {
+    margin-bottom: 0.75rem;
+  }
+  
+  .social_media {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1.5rem;
+  }
+  
+  .social_media .footer-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    width: 2.5rem;
+    color: white;
+    border-radius: 50%;
+    transition: all 0.4s;
+  }
+  
+  .social_media .footer-link i {
+    font-size: 1.25rem;
+  }
+  
+  .social_media .footer-link:hover {
+    opacity: 0.8;
+  }
+  
+  .footer-link {
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  #instagram {
+    background: linear-gradient(#7f37c9, #ff2992, #ff9807);
+  }
+  
+  #facebook {
+    background-color: #4267b3;
+  }
+  
+  #whatsapp {
+    background-color: #25d366;
+  }
+  
+  .footer-list {
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    list-style: none;
+  }
+  
+  .footer-list .footer-link {
+    color: black;
+    transition: all 0.4s;
+  }
+  
+  .footer-list .footer-link:hover {
+    color: #57a2d4;
+  }
+  
+  .mapa {
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: center;
+  }
+  
+  .mapa iframe {
+    height: 80%;
+    width: 50%;
+  }
+  
+  .footer_copyright {
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    font-size: 0.9rem;
+    padding: 1.5rem;
+  }
