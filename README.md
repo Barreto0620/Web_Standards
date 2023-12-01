@@ -89,6 +89,55 @@ Compatibilidade total com dispositivos móveis para que você possa aproveitar o
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Projeto 3 - Loja Dentlab
+
+- Descrição: O "Dentlab" tem como objetivo:
+
+Consultório odontológico dedicado a proporcionar cuidados odontológicos excepcionais em um ambiente acolhedor e centrado no paciente.
+Nossa equipe de profissionais altamente qualificados está comprometida em oferecer serviços odontológicos de qualidade, utilizando tecnologias
+de ponta para garantir sorrisos saudáveis e felizes.
+
+- Serviços Oferecidos:
+
+• Odontologia Preventiva:
+
+Exames odontológicos abrangentes para diagnóstico precoce e prevenção de problemas dentários.
+Limpezas regulares e selantes para proteção contra cáries e doenças gengivais.
+
+• Restauração e Estética:
+
+Tratamentos de restauração, como obturações estéticas e coroas personalizadas.
+Procedimentos estéticos, incluindo clareamento dental e facetas de porcelana.
+
+• Implantes Dentários:
+
+Implantes avançados para substituição segura e eficaz de dentes ausentes.
+Próteses personalizadas para restaurar a funcionalidade e a estética.
+
+• Ortodontia Moderna:
+
+Soluções ortodônticas, incluindo alinhadores transparentes para correção de sorrisos.
+Consultoria especializada em desenvolvimento facial e ortodontia preventiva.
+
+• Compromisso com o Paciente:
+
+Abordagem humanizada e personalizada para cada paciente, promovendo conforto e confiança.
+Horários flexíveis e atendimento emergencial para atender às necessidades individuais.
+
+- Código-fonte: [Link para o repositório](https://github.com/Barreto0620/Senac/tree/1d5722ca7ecf265687e81f1d51bf2bcdd9bf895a/Projeto_Web)
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+## Participações
+
+- Gabriel Barreto
+- Lusxka
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Licença
 
 Projetos são licenciados sob a Licença MIT - sinta-se à vontade para usar, modificar e distribuir de acordo com os termos da licença.
