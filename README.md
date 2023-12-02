@@ -124,7 +124,7 @@ Consultoria especializada em desenvolvimento facial e ortodontia preventiva.
 Abordagem humanizada e personalizada para cada paciente, promovendo conforto e confiança.
 Horários flexíveis e atendimento emergencial para atender às necessidades individuais.
 
-- Código-fonte: [Link para o repositório](https://github.com/Barreto0620/Senac/tree/1d5722ca7ecf265687e81f1d51bf2bcdd9bf895a/Projeto_Web)
+- Código-fonte: [Link para o repositório](https://github.com/Barreto0620/Web_Standards/tree/120769321bfd9520572f322968b708c1a71ec092/DentLab)
 
 ## Tecnologias Utilizadas
 
