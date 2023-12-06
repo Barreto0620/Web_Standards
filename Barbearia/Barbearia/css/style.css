@@ -1,0 +1,248 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header a {
+    text-decoration: none;
+    padding: 15px;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo_div {
+    margin-left: -150px;
+}
+
+.logo {
+    width: 150px;
+    height: 130px;
+}
+
+.links {
+    display: flex;
+    list-style-type: none;
+}
+
+.links li {
+    padding: 10px;
+}
+
+.btn_login {
+    border-radius: 10px;
+    padding-left: 10px;
+    background-color: rgb(206, 202, 169);
+    color: black;
+    text-align: center;
+}
+
+.btn_cad {
+    border-radius: 10px;
+    padding-left: 10px;
+    background-color: rgb(202, 93, 3);
+    color: black;
+    text-align: center;
+}
+
+main {
+    margin-top: -150px;
+    background-image: url(../img/fundo.jpg);
+    background-size: cover;
+    width: auto;
+    height: 780px;
+    background-repeat: no-repeat;
+}
+
+.container {
+    padding-top: 150px;
+    display: flex;
+    justify-content: start;
+    margin: 150px;
+}
+
+.card {
+    width: 650px;
+    height: 200px;
+    margin-top: 100px;
+    border-radius: 20px;
+    background-color: black;
+    opacity: 0.9;
+}
+
+.frase_div {
+    margin: 50px;
+    color: aliceblue;
+}
+
+.titulo {
+    background-color: black;
+    font-size: 48px;
+    margin-bottom: 15px;
+    color: #77B2D8;
+}
+
+.frase {
+    font-size: 20px;
+}
+
+.titulo_servicos {
+    padding-top: 50px;
+    text-align: center;
+    background-color: black;
+    font-size: 48px;
+    color: #ffffff;
+}
+
+.container_card {
+    justify-content: space-around;
+    background-color: black;
+    text-align: center;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+}
+
+.card_servicos {
+    width: 400px;
+    height: 100px;
+    margin-top: 100px;
+    border-radius: 30px;
+    background-color: #77B2D8;
+    opacity: 0.9;
+}
+
+.sub_servicos p {
+    padding-top: 20px;
+    color: black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.desc_servicos {
+    padding-top: 10px;
+    color: black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sobre {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    display: flex;
+    margin-left: 45px;   
+}
+
+.sobre img{
+    width: 500px;
+    height: 350px;
+}
+
+.sobre p{
+    color: white;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 15px;
+}
+
+.sobre h3{
+    color: white;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo_sobre{
+    margin: 40px;
+}
+.titulo_sobre p{
+    text-align: justify;
+}
+footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  margin-bottom: 1%;
+}
+
+footer a{
+    text-decoration: none;
+    color: rgb(190, 190, 190);   
+}
+
+footer li{
+    margin-top: 35px;
+}
+.div_lista1 .logo_footer{
+    margin-top: -5%;
+    margin-bottom: -8%;
+    width: 100px;
+}
+
+footer a{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+
+
+.div_lista1 img{
+    width: 4%;
+    margin-bottom: -1.5%;    
+}
+
+.titulo_galeria h2{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 5%;
+    margin-top: -5%;
+}
+
+.div_galeria img{
+    width: 90%;
+    
+}
+
+.div_galeria ul{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.section_profissionais{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    display: flex;
+    text-align: center;
+
+}
+
+.img_profissionais img{
+    width: 80%;
+}
+
+.texto_profissionais h3{
+    margin-bottom: 5%;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: left;
+}
+.texto_profissionais p{
+    color: #ffffff;
+    font-size: 20px;
+    text-align: justify;
+    margin-right: 10%;
+}
